@@ -5,6 +5,7 @@ Andres Riera Ortiz Parraga & Rosey Gutierrez Meza
 ## Contents
 
  - `notebook.ipynb` - Jupyter Notebook with EDA Analysis, Model implementations and evaluations.
+ - `workbook.html` - HTML rendering of the Jupyter Notebook for easy viewing on browser.
 
 ### Dataset: Amazon Reviews 2023 — Electronics.jsonl
 Link : `https://mcauleylab.ucsd.edu/public_datasets/data/amazon_2023/raw/review_categories/Electronics.jsonl.gz`
